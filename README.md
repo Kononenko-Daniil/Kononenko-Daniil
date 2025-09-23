@@ -4,5 +4,3 @@
 📱 Telegram Mini Apps developer
 
 🎓 Belarusian State University student
-
-❤️ TON
